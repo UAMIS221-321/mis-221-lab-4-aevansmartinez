@@ -1,0 +1,15 @@
+/Users/annyae/Documents/MIS221/labs/mis-221-lab-4-aevansmartinez/bin/Debug/net7.0/mis-221-lab-4-aevansmartinez
+/Users/annyae/Documents/MIS221/labs/mis-221-lab-4-aevansmartinez/bin/Debug/net7.0/mis-221-lab-4-aevansmartinez.deps.json
+/Users/annyae/Documents/MIS221/labs/mis-221-lab-4-aevansmartinez/bin/Debug/net7.0/mis-221-lab-4-aevansmartinez.runtimeconfig.json
+/Users/annyae/Documents/MIS221/labs/mis-221-lab-4-aevansmartinez/bin/Debug/net7.0/mis-221-lab-4-aevansmartinez.dll
+/Users/annyae/Documents/MIS221/labs/mis-221-lab-4-aevansmartinez/bin/Debug/net7.0/mis-221-lab-4-aevansmartinez.pdb
+/Users/annyae/Documents/MIS221/labs/mis-221-lab-4-aevansmartinez/obj/Debug/net7.0/mis-221-lab-4-aevansmartinez.csproj.AssemblyReference.cache
+/Users/annyae/Documents/MIS221/labs/mis-221-lab-4-aevansmartinez/obj/Debug/net7.0/mis-221-lab-4-aevansmartinez.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annyae/Documents/MIS221/labs/mis-221-lab-4-aevansmartinez/obj/Debug/net7.0/mis-221-lab-4-aevansmartinez.AssemblyInfoInputs.cache
+/Users/annyae/Documents/MIS221/labs/mis-221-lab-4-aevansmartinez/obj/Debug/net7.0/mis-221-lab-4-aevansmartinez.AssemblyInfo.cs
+/Users/annyae/Documents/MIS221/labs/mis-221-lab-4-aevansmartinez/obj/Debug/net7.0/mis-221-lab-4-aevansmartinez.csproj.CoreCompileInputs.cache
+/Users/annyae/Documents/MIS221/labs/mis-221-lab-4-aevansmartinez/obj/Debug/net7.0/mis-221-lab-4-aevansmartinez.dll
+/Users/annyae/Documents/MIS221/labs/mis-221-lab-4-aevansmartinez/obj/Debug/net7.0/refint/mis-221-lab-4-aevansmartinez.dll
+/Users/annyae/Documents/MIS221/labs/mis-221-lab-4-aevansmartinez/obj/Debug/net7.0/mis-221-lab-4-aevansmartinez.pdb
+/Users/annyae/Documents/MIS221/labs/mis-221-lab-4-aevansmartinez/obj/Debug/net7.0/mis-221-lab-4-aevansmartinez.genruntimeconfig.cache
+/Users/annyae/Documents/MIS221/labs/mis-221-lab-4-aevansmartinez/obj/Debug/net7.0/ref/mis-221-lab-4-aevansmartinez.dll
